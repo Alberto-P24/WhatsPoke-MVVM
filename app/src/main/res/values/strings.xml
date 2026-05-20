@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">WhatsPoke</string>
+    <string name="about_contact_email">whatspoke.app@gmail.com</string>
+    <string name="app_version">1.0</string>
+    <string name="send_email">Enviar correo a WhatsPoke</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_about">About</string>
+
+    <!-- ElemList Screen -->
+    <string name="no_pokemon_found">No Pokemon found.</string>
+    <string name="error_loading_pokemon">Error loading Pokemon</string>
+    <string name="retry">Retry</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="already_favorite">Este Pokemon ya es favorito</string>
+    <string name="saved_to_favorites">Pokemon guardado en favoritos</string>
+
+    <!-- DetailItem Screen -->
+    <string name="pokemon_not_found">Pokemon not found</string>
+    <string name="type_label">Type: %1$s</string>
+    <string name="height_label">Height: %1$.1f m</string>
+    <string name="weight_label">Weight: %1$.1f kg</string>
+    <string name="abilities_label">Abilities: %1$s</string>
+    <string name="stats_label">Stats</string>
+    <string name="save_to_favorites">Save to Favorites</string>
+
+    <!-- FavList Screen -->
+    <string name="no_favorites_yet">No Favorites yet.</string>
+    <string name="delete_confirmation_title">Delete Favorite</string>
+    <string name="delete_confirmation_message">Are you sure you want to delete %1$s from favorites?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- DetailFav Screen -->
+    <string name="comments_title">Comments</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="new_comment_label">New Comment</string>
+    <string name="post_comment">Post</string>
+    <string name="comment_by_author">by %1$s</string>
+    <string name="no_comments_yet">No comments yet. Add one!</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">Profile</string>
+    <string name="user_name_label">User Name</string>
+    <string name="theme_label">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_system">System</string>
+    <string name="save">Save</string>
+    <string name="user_name_saved">User name saved</string>
+    <string name="theme_saved">Theme saved</string>
+
+    <!-- About Screen -->
+    <string name="about_title">About</string>
+    <string name="about_theme">Theme: Pokemon Repository</string>
+    <string name="about_version">Version: %1$s</string>
+    <string name="contact_support">Contact Support:</string>
+    <string name="select_placeholder">Select a Pokemon to view details</string>
+</resources>

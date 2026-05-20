@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.WhatsPoke" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.WhatsPoke.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo1whatspoke</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item> <!-- 1 segundo -->
+    </style>
+
+</resources>
